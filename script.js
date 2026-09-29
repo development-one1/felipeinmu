@@ -100,16 +100,16 @@ const properties = [
     id: 7,
     city: "Bogotá",
     locality: "Suba",
-    neighborhood: "Camino Verde del Cerezo",
+    neighborhood: "alameda 181",
     type: "Apartamento",
-    floor: null,
-    price: 216000000,
+    floor: 2,
+    price: 268000000,
     area: 51,
     rooms: 3,
-    baths: 1,
+    baths: 2,
     parking: 0,
-    image: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=900&q=85",
-    tourUrl: "https://example.com/360/suba-cerezo"
+    image: "https://d3hzflklh28tts.cloudfront.net/venta-c6d0d66f81-2-1100.png",
+    tourUrl: "https://my.matterport.com/show/?m=Cgm3Fgn8gFS"
   },
 
   {
